@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="remont.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>memtag</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Техничиские работы 🛠️</title>
+    
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-Frame-Options" content="DENY">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    
+    <script>
+        if (window.location.protocol !== "https:") {
+            window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
+        }
+    </script>
+    
+    <style>
+        body {
+            background-color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            text-align: center;
+            cursor: pointer;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="errorMessage">
+        <div class="error-icon"></div>
+        <h1>Идут техничиские работы, скоро все сделаем!🩷</h1>
+    </script>
+</body>
+</html>
